@@ -1,0 +1,14 @@
+/home/kevin/projects/SnackStore/SnackStore/bin/Debug/netcoreapp2.2/SnackStore.deps.json
+/home/kevin/projects/SnackStore/SnackStore/bin/Debug/netcoreapp2.2/SnackStore.runtimeconfig.json
+/home/kevin/projects/SnackStore/SnackStore/bin/Debug/netcoreapp2.2/SnackStore.runtimeconfig.dev.json
+/home/kevin/projects/SnackStore/SnackStore/bin/Debug/netcoreapp2.2/SnackStore.dll
+/home/kevin/projects/SnackStore/SnackStore/bin/Debug/netcoreapp2.2/SnackStore.pdb
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.csprojAssemblyReference.cache
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.csproj.CoreCompileInputs.cache
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.RazorAssemblyInfo.cache
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.RazorAssemblyInfo.cs
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.AssemblyInfoInputs.cache
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.AssemblyInfo.cs
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.RazorTargetAssemblyInfo.cache
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.dll
+/home/kevin/projects/SnackStore/SnackStore/obj/Debug/netcoreapp2.2/SnackStore.pdb
